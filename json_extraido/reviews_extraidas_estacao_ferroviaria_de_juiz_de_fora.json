@@ -1,0 +1,475 @@
+[
+    {
+        "rating": 5,
+        "date": "um mês atrás",
+        "isoDate": "2026-03-01T20:57:08.692Z",
+        "likes": 0,
+        "user": {
+            "name": "gilvan teixeira da silva",
+            "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWyR42CYvGsV3m0qKLPYC7qa3j9U0CON9ByJLLPZjenAPe_N_A=s64-c-rp-mo-ba3-br100",
+            "link": "https://www.google.com/maps/contrib/103676976948843229779/reviews?hl=pt-BR",
+            "reviews": 16,
+            "photos": 37
+        },
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25aM1RWbDRUaTFyTVV0T1dHc3hTRTFyZUdFd2JGRRAB!2m1!1s0x0:0x670968bacf116292!3m1!1s2@1:CAIQACodChtycF9oOnZ3TVl4Ti1rMUtOWGsxSE1reGEwbFE%7C%7C?hl=pt-BR",
+        "id": "Ci9DQUlRQUNvZENodHljRjlvT25aM1RWbDRUaTFyTVV0T1dHc3hTRTFyZUdFd2JGRRAB"
+    },
+    {
+        "rating": 5,
+        "date": "6 meses atrás",
+        "isoDate": "2025-09-24T02:57:25.411Z",
+        "likes": 0,
+        "user": {
+            "name": "Paulo Souza",
+            "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWZkrqjBhfXUJut79tCHulEpzLQGNhMJJnVQeWbEOs6E2Sy8A_s=s64-c-rp-mo-br100",
+            "link": "https://www.google.com/maps/contrib/116966906438138553355/reviews?hl=pt-BR",
+            "reviews": 2,
+            "photos": 0
+        },
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pCSFkwTm5TMjlZVjJJeGRGZEpibWgzZGxJNVdFRRAB!2m1!1s0x0:0x670968bacf116292!3m1!1s2@1:CAIQACodChtycF9oOjBHY0NnS29YV2IxdFdJbmh3dlI5WEE%7C%7C?hl=pt-BR",
+        "id": "Ci9DQUlRQUNvZENodHljRjlvT2pCSFkwTm5TMjlZVjJJeGRGZEpibWgzZGxJNVdFRRAB"
+    },
+    {
+        "rating": 5,
+        "date": "7 meses atrás",
+        "isoDate": "2025-09-06T20:43:27.200Z",
+        "snippet": "História e modernidade nessa foto!\nUma pena não termos mais trens de passageiros!",
+        "likes": 0,
+        "user": {
+            "name": "Luiz Augusto de Jesus",
+            "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVYC9gHJhQ4fJdpVSqJ0-SW9PfdSQxImzqIm5iWIrlm0DowmNyltw=s64-c-rp-mo-ba6-br100",
+            "link": "https://www.google.com/maps/contrib/102158917237615402654/reviews?hl=pt-BR",
+            "reviews": 627,
+            "photos": 2694
+        },
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25RNVoydHhTUzFLZVRGSVdGaDZXRXAwUkVSU1NsRRAB!2m1!1s0x0:0x670968bacf116292!3m1!1s2@1:CAIQACodChtycF9oOnQ5Z2txSS1KeTFIWFh6WEp0RERSSlE%7C%7C?hl=pt-BR",
+        "id": "Ci9DQUlRQUNvZENodHljRjlvT25RNVoydHhTUzFLZVRGSVdGaDZXRXAwUkVSU1NsRRAB"
+    },
+    {
+        "rating": 5,
+        "date": "um ano atrás",
+        "isoDate": "2025-01-14T12:24:31.542Z",
+        "snippet": "Ótimo lugar para tirar fotos e visitar",
+        "likes": 0,
+        "user": {
+            "name": "rodrigo Felício",
+            "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjX2LizGcXse6Pf5bqzUevFXlHqN8Ndg6CT6StO_GeY4SLnoWiQ=s64-c-rp-mo-ba4-br100",
+            "link": "https://www.google.com/maps/contrib/107909187803594046953/reviews?hl=pt-BR",
+            "reviews": 108,
+            "photos": 260
+        },
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNfNHRudnBRRRAB!2m1!1s0x0:0x670968bacf116292!3m1!1s2@1:CIHM0ogKEICAgIC_4tnvpQE%7C%7C?hl=pt-BR",
+        "id": "ChdDSUhNMG9nS0VJQ0FnSUNfNHRudnBRRRAB"
+    },
+    {
+        "rating": 3,
+        "date": "um ano atrás",
+        "isoDate": "2024-12-09T13:22:44.842Z",
+        "snippet": "É um local bem localizado, fica fechado. Precisa passar por reformas.\nSó a escadaria foi reformada, porém já estão roubando o corrimão.",
+        "likes": 3,
+        "user": {
+            "name": "Ester Gariglio Dias",
+            "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUz07lliuWMRGLRu32tcxP9hHg5AhdPFSm1OCSBG7Uq7K-Rgba-Wg=s64-c-rp-mo-ba7-br100",
+            "link": "https://www.google.com/maps/contrib/105781293646189904920/reviews?hl=pt-BR",
+            "reviews": 560,
+            "photos": 7833
+        },
+        "media": [
+            {
+                "type": "image",
+                "imageUrl": "https://lh3.googleusercontent.com/geougc-cs/ABOP9puxB1d5N6QlH4CC28eQECiJv_O8bpeXxebp4y0-uwzIYdBvkFCHbQ9C9tygttP5Vrh0WZvYLV_-2pmDghnuNKPZw1Hipju30AvytDLebKKv5yR1cm8NBMwAUeLvun4jiI9tUzT35A"
+            },
+            {
+                "type": "image",
+                "imageUrl": "https://lh3.googleusercontent.com/geougc-cs/ABOP9pukEV2lM8irFcc9xQ43WIkHrosoXhs_BS9cuEAszrIYFztbIFtRBQm-Ne4Kb9Qeh1NCgxeX4H6yghcIafvynVq4gAhgA0bByvBLUuB6YolLKMPTyD3rSAm00dNjzrVUbc3GMkNd"
+            },
+            {
+                "type": "image",
+                "imageUrl": "https://lh3.googleusercontent.com/geougc-cs/ABOP9pvVhCZaLRbOvUbO0MsFGH2OI457Cfxw9Gt0WhtgRRExkqyZEEzOgePAA3dUr07SIfMIhqHRCuWAipDvMSscv9s5E-cKacqZ3BnjXJF6VLSe30Cn8gNlKQzbIn-ot30IHTNXacpK"
+            },
+            {
+                "type": "image",
+                "imageUrl": "https://lh3.googleusercontent.com/geougc-cs/ABOP9pt0nrggel43ZOYdmtbFPVDb73d_v8A0UmJnsIrjKzcvxhqegidPwLLPI-Ncw9I2h731iWh266PXkmJslKMGXXYtnQunTdb34DN2VCI1QD5O2LxAz0p0yN50WAg-UGIVhyM7NgI"
+            },
+            {
+                "type": "image",
+                "imageUrl": "https://lh3.googleusercontent.com/geougc-cs/ABOP9ptLCQ5vXTGdmpZyzLARIVAlR218Cn7A3oKVjS44lZxbieqIzp06kNcjQiRb1I9SppTd_5LVXVnyd-aOHebtG-Aj5GHNCiVXHx6Qsj3WzL6En9qrTIK0TEFYO4QUA_vbIRBCJ3lQ"
+            },
+            {
+                "type": "image",
+                "imageUrl": "https://lh3.googleusercontent.com/geougc-cs/ABOP9pvMNNjVCQB2yDDgDiY17W7CSlL9dFO2Brcrgf4OuoulKBX5cSq437ju3uaEa9pCTHRVBYkhoFvjVV4l0ivvbkLv3ivqaRslcY1vy29atMnL9yfmVptSYNqGpBbLzt-Kp14X7YI"
+            },
+            {
+                "type": "image",
+                "imageUrl": "https://lh3.googleusercontent.com/geougc-cs/ABOP9pviIfbCNUFx0EHO86XGUSonj_rRPzLXREo1o-x5A1HBBooynwiN0z33xROHUk1fBtShKlIfI84Kv99TZwdltiH5eQBeta-Uoo_Bkpvl6fWxEiseaqrMrBgiH4Fcf59CJndihWSrOg"
+            },
+            {
+                "type": "image",
+                "imageUrl": "https://lh3.googleusercontent.com/geougc-cs/ABOP9pve8aJCrJCmDQEjPXscEgQTGK2lAnAW-_ScUoaPgg0l_Dka_JmXtwHZBBsbG1yxA0q0GnyklquBnlb1T8rr-30AbhgzOEgTUbJjsABB3ueECQBbzJeifJv-Q5bfrmwJK4oClGA"
+            },
+            {
+                "type": "image",
+                "imageUrl": "https://lh3.googleusercontent.com/geougc-cs/ABOP9puL_ZO1HMzx0BvDBkd5eqkZ_84EsxGk_Y0kjXYJnUisttUeeHp-vcX2jbtNc2Az7HXwNPT6K5ik7Ko9OF1rjjSdJsdpWTTEmSPUbslYO0n-oRgLTU1dH5-aF0Z5YB3jb92Q23wmyw"
+            },
+            {
+                "type": "image",
+                "imageUrl": "https://lh3.googleusercontent.com/geougc-cs/ABOP9pvS4T6D6m6ZR11ms0-hdt3LHclC9Pa-UtzzMzYRaTeQr78_nyKF7aTx2LbMm0sg9qbITBpQvvkS4j7iFz3JLfmpLr_FelyypTgoZXNTcpevhmmcQmVzNfqYjD-UdZu-VCH80Kgr"
+            }
+        ],
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUN2a3U2SVd3EAE!2m1!1s0x0:0x670968bacf116292!3m1!1s2@1:CIHM0ogKEICAgICvku6IWw%7C%7C?hl=pt-BR",
+        "id": "ChZDSUhNMG9nS0VJQ0FnSUN2a3U2SVd3EAE"
+    },
+    {
+        "rating": 4,
+        "date": "um ano atrás",
+        "isoDate": "2024-07-02T13:29:44.505Z",
+        "likes": 0,
+        "user": {
+            "name": "Eline Lhamas",
+            "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXuWw3G6OUGOU6xX12VJqRXPTKskjErnU1aqLnqj6vJyYUsl6nnww=s64-c-rp-mo-ba4-br100",
+            "link": "https://www.google.com/maps/contrib/105231273295313900402/reviews?hl=pt-BR",
+            "reviews": 28,
+            "photos": 2
+        },
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURMcjV1NUJREAE!2m1!1s0x0:0x670968bacf116292!3m1!1s2@1:CIHM0ogKEICAgIDLr5u5BQ%7C%7C?hl=pt-BR",
+        "id": "ChZDSUhNMG9nS0VJQ0FnSURMcjV1NUJREAE"
+    },
+    {
+        "rating": 4,
+        "date": "um ano atrás",
+        "isoDate": "2024-04-18T23:58:57.749Z",
+        "snippet": "Muito informativo",
+        "likes": 0,
+        "user": {
+            "name": "Wemerson Oliveira",
+            "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocKVrHSPg0Uho_ftz9LC4SjuhEMbSZFlt4K3smZcbveVmyUXxQ=s64-c-rp-mo-br100",
+            "link": "https://www.google.com/maps/contrib/106641752907935374846/reviews?hl=pt-BR",
+            "reviews": 2,
+            "photos": 0
+        },
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNqM0pfdGtBRRAB!2m1!1s0x0:0x670968bacf116292!3m1!1s2@1:CIHM0ogKEICAgICj3J_tkAE%7C%7C?hl=pt-BR",
+        "id": "ChdDSUhNMG9nS0VJQ0FnSUNqM0pfdGtBRRAB"
+    },
+    {
+        "rating": 5,
+        "date": "2 anos atrás",
+        "isoDate": "2023-12-19T19:57:52.420Z",
+        "snippet": "Muito bem conservada! Mas cuidado ao atravessar a passarela elevada, o piso é extremamente escorregadio.",
+        "likes": 4,
+        "user": {
+            "name": "João Borges",
+            "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVmftzpgW_TSlkGVNppVadc2d-F4JIFcDIxqvZaPWbPhGradtHj1w=s64-c-rp-mo-ba5-br100",
+            "link": "https://www.google.com/maps/contrib/103593947066282646798/reviews?hl=pt-BR",
+            "reviews": 87,
+            "photos": 785
+        },
+        "media": [
+            {
+                "type": "image",
+                "imageUrl": "https://lh3.googleusercontent.com/geougc-cs/ABOP9puip4yPTXNa-jaPsCjWOiaKZNK6d29iHFcwqyuhGX8zUGIo7KSQlsK-5iOLYSCXRtPRHP9K86sUBffX-CjlIB27x57OFojd5gEPkUVTHvkb7wOCEM3F3LQebwFYF6C9AOPCWMVZgw"
+            },
+            {
+                "type": "image",
+                "imageUrl": "https://lh3.googleusercontent.com/geougc-cs/ABOP9puqv1jY52zQOCvART5xjvOLV_-bMWoRaXgJc1dBaqB2NC5dlwMDPsu4H8wazjjnE5uFWTghctAw5zSdgYorSh0bJRy8qFCyAR0o1pyNr1jKXAv5kDUPPYQJtMqIUjo47ZOnS7z7"
+            },
+            {
+                "type": "image",
+                "imageUrl": "https://lh3.googleusercontent.com/geougc-cs/ABOP9pswuXX1xctGG3k7slMRKWGMvEHaDIsRAi0xzHpOX8XtTXpqPoa1Qgxa-8uoSY4a_koKm6kuRAAYW3XQOxbfxhlt495tq40H6xd7poiWAEXkPwIz02buz88FQIm5uMccLRcaLni9bQ"
+            },
+            {
+                "type": "image",
+                "imageUrl": "https://lh3.googleusercontent.com/geougc-cs/ABOP9pvzAkFxY74poedGc3W4lnOkKxbKcAYr4Ahb0HMJ5CzZe0KZcibGKw9u0QxpZxjt4HyAm-6eKZJucM1DrSr2zvdr48O5ZDOXxvfZRd195FY87vUtSXXIP9htAINBtIZuPZy7lGLc"
+            },
+            {
+                "type": "image",
+                "imageUrl": "https://lh3.googleusercontent.com/geougc-cs/ABOP9ptw4DBbFwBeDyzvvk3OeWBb3qNVGePLMwnAmURQtPt47sOHAd3Sv2xxNchS7SrRtpN66i3QjFXnHBc2W8kaXwvtWXCHLUnhQMu9IRU7_qGb-5GcDPWBcv4r-aGVadlMorqsZ3dnwg"
+            },
+            {
+                "type": "image",
+                "imageUrl": "https://lh3.googleusercontent.com/geougc-cs/ABOP9ptQYfpLMcA4Qpk0X_OdNO8VNm7AQ_8jaZnKzCJaPczY_ebDJWU-rRLg-ChljRsUcqusSbxKAetvLbTSrPQNSPo4eS3MKqupR10A4wPQl0B91gTspI1v60Yb_02tcCYFbRosPcI"
+            },
+            {
+                "type": "image",
+                "imageUrl": "https://lh3.googleusercontent.com/geougc-cs/ABOP9ptkdqQvTgKiYd9bYYF1JWVc4bfIT6n59ZoR8z0DG9boEk6KcUya7YG6EEeSVN6dAu-4WNq6MPVoBaDd-9YFtdW96Qd-sTFBI1pSunXF20ffcmxkg9Z6vboYugriLFIiLZv2DBTMWg"
+            },
+            {
+                "type": "image",
+                "imageUrl": "https://lh3.googleusercontent.com/geougc-cs/ABOP9psc4tNLX-j4Q0uqiO9hvdCBVEFRSFKTKjdp-V6DD3i6BJe97zYehvj-gnSTkP3eNx0XznDrneEBSDM5pczG-A7z3lzavZUaRki16A809dZeDWVqrxRf63BmMyZf36WR1QaCPfJS"
+            },
+            {
+                "type": "image",
+                "imageUrl": "https://lh3.googleusercontent.com/geougc-cs/ABOP9ptuHRJ-aaigHZT1-dQ7dNz9PUCVdqS14IRT_pUtzbeGWjZcK70efwuIC4GDeegSRr6VNdwbJXJxKrcC2_O_v36ah0pKdpSNr6AoQ_irbHpiatT7lwoCtQI5Rh1V6SMuRFLYVSBbpA"
+            },
+            {
+                "type": "image",
+                "imageUrl": "https://lh3.googleusercontent.com/geougc-cs/ABOP9pvBCYMj_vWWkmvHdeQ8NJfBk8Y6yk4k0qlvvGeoAjXjezd_SoSAKED-wRr20kPLeTjgX_VTy30QxGfii0VgoIt-fuSU-BFewTn4l_kcpLUxxtKJzk7rr_g6TrriK-MIYHUzJ_Ax"
+            }
+        ],
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURWXy1HX2ZREAE!2m1!1s0x0:0x670968bacf116292!3m1!1s2@1:CIHM0ogKEICAgIDV_-G_fQ%7C%7C?hl=pt-BR",
+        "id": "ChZDSUhNMG9nS0VJQ0FnSURWXy1HX2ZREAE"
+    },
+    {
+        "rating": 3,
+        "date": "Editado 2 anos atrás",
+        "isoDate": "2023-09-03T12:21:12.076Z",
+        "snippet": "Visitada em 2022,EF CENTRAL DO BRASIL.outra linda construçao da EFCB no caminho entre MG e RJ.importante ponto de parada, hoje serve apenas os trens de carga de minerio que passam a todo momento subindo vazios para carregar proximo a BH.tentei fotografar a estaçao mais de perto mais o funcionario muito mal humorado nao permitiu.Desde a implantação da Estrada de Ferro Central do Brasil no século XIX, Juiz de Fora era um tradicional ponto de parada dos trens de passageiros de longo percurso, que uniam os estados de Minas Gerais e do Rio de Janeiro. A partir de 1950, o moderno Trem Vera Cruz, iniciou suas operações na ligação diária entre as capitais Belo Horizonte e Rio de Janeiro, contando com uma parada intermediária na Estação Ferroviária de Juiz de Fora para embarques e desembarques de passageiros, sempre no início da madrugada. Era tracionado por locomotivas diesel-elétricas e carros de aço inoxidável. Após uma suspensão de suas atividades em 1976 e uma breve reforma de suas composições, o trem retomou suas operações locais em 1980, na chamada Linha do Centro, sendo desativado em 15 de março de 1990.Entre 1923 e 1997, Juiz de Fora possuiu um trem urbano. Com 36 km e 13 pontos de embarque e tração diesel, o Trem Urbano de Juiz de Fora ligava o bairro de Benfica até à cidade de Matias Barbosa. Entre 1923 e a década de 1950, o trem era composto por locomotivas a vapor e carros de madeira. A partir daí passou a ser tracionado por locomotivas diesel e carros de aço carbono. Após uma breve reforma em 1994, os trens foram desativados em 31 de dezembro de 1997",
+        "likes": 5,
+        "user": {
+            "name": "Décio Marques",
+            "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLt71f0UVxu195FEZLcXA1eLHe3ZGf77WBStR5GyQh0s8A66g=s64-c-rp-mo-ba7-br100",
+            "link": "https://www.google.com/maps/contrib/100190969672752944491/reviews?hl=pt-BR",
+            "reviews": 1702,
+            "photos": 6662
+        },
+        "media": [
+            {
+                "type": "image",
+                "imageUrl": "https://lh3.googleusercontent.com/geougc-cs/ABOP9ptXXqiY6gFDwc7RKchzpZClqLJfwV8KEADkImQ_ISFMcw97lbZF7LXofPfv3SjLAg1JkakrmZbZ4ouLD2cX21aEZVHa4_U4OhKHxdcryvEGSm9jhCnR-8spaJWeQFrim5L7U6yuEg"
+            },
+            {
+                "type": "image",
+                "imageUrl": "https://lh3.googleusercontent.com/geougc-cs/ABOP9puEee8zKwMVHG3qOtWvMkCFbaj8AALz-Og7BUIgJp7DFyRsJK16z-gEOSAe0t8PlIemBbVhplnY49fEVsSWO2UNgeMCvHhXn6Vy5onSheufnWnzXOj3L4812CDVXX_LqbBOjCQ"
+            }
+        ],
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNKdU5ESlhBEAE!2m1!1s0x0:0x670968bacf116292!3m1!1s2@1:CIHM0ogKEICAgICJuNDJXA%7C%7C?hl=pt-BR",
+        "id": "ChZDSUhNMG9nS0VJQ0FnSUNKdU5ESlhBEAE"
+    },
+    {
+        "rating": 3,
+        "date": "2 anos atrás",
+        "isoDate": "2023-07-17T12:48:19.199Z",
+        "likes": 1,
+        "user": {
+            "name": "Ricardo Calmon",
+            "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjU-9hyMStT6iDugmJiBwWYoMxFkVsLKCO2X8Q4h8eCVxu4FRQKkWg=s64-c-rp-mo-ba6-br100",
+            "link": "https://www.google.com/maps/contrib/102962054441574173828/reviews?hl=pt-BR",
+            "reviews": 38,
+            "photos": 2558
+        },
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURKN29hamZREAE!2m1!1s0x0:0x670968bacf116292!3m1!1s2@1:CIHM0ogKEICAgIDJ7oajfQ%7C%7C?hl=pt-BR",
+        "id": "ChZDSUhNMG9nS0VJQ0FnSURKN29hamZREAE"
+    },
+    {
+        "rating": 3,
+        "date": "2 anos atrás",
+        "isoDate": "2023-04-19T11:30:08.853Z",
+        "snippet": "visitei este lugar segunda feira, estou dando 3🌟🌟🌟 pois tem cheiro de xixi",
+        "likes": 0,
+        "user": {
+            "name": "Joana Carolina B Levada",
+            "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXYPY-y3rkKSxoeg2O8dcVNHoS7ene8D_VLBIDg-XZn9w-EqZs7Hg=s64-c-rp-mo-br100",
+            "link": "https://www.google.com/maps/contrib/111968939222514960855/reviews?hl=pt-BR",
+            "reviews": 4,
+            "photos": 0
+        },
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURSak1lTW9BRRAB!2m1!1s0x0:0x670968bacf116292!3m1!1s2@1:CIHM0ogKEICAgIDRjMeMoAE%7C%7C?hl=pt-BR",
+        "id": "ChdDSUhNMG9nS0VJQ0FnSURSak1lTW9BRRAB"
+    },
+    {
+        "rating": 5,
+        "date": "3 anos atrás",
+        "isoDate": "2023-02-08T23:29:14.220Z",
+        "snippet": "Construção antiga e bonita de ver. Relógio estilo londrino mas que náo está funcionando.",
+        "likes": 12,
+        "user": {
+            "name": "Maria de LourdesTavares Vale",
+            "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjV7pSq7w3Rbn_Sr20ncwDQlpx9wD1cq1lUE9RO5bmACEyCSOOk5=s64-c-rp-mo-ba6-br100",
+            "link": "https://www.google.com/maps/contrib/115615825108349385410/reviews?hl=pt-BR",
+            "reviews": 282,
+            "photos": 2079
+        },
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNoNHJHd1pnEAE!2m1!1s0x0:0x670968bacf116292!3m1!1s2@1:CIHM0ogKEICAgICh4rGwZg%7C%7C?hl=pt-BR",
+        "id": "ChZDSUhNMG9nS0VJQ0FnSUNoNHJHd1pnEAE"
+    },
+    {
+        "rating": 5,
+        "date": "3 anos atrás",
+        "isoDate": "2022-12-17T00:16:50.610Z",
+        "snippet": "Divino o lugar.",
+        "likes": 1,
+        "user": {
+            "name": "MarêSilva",
+            "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJE6rbelXSlCAETAiTah4NJZMDT8yynBcPTiT1FFAxX4wMZXw=s64-c-rp-mo-ba4-br100",
+            "link": "https://www.google.com/maps/contrib/100474942419245871990/reviews?hl=pt-BR",
+            "reviews": 61,
+            "photos": 49
+        },
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNCLUo3bjdRRRAB!2m1!1s0x0:0x670968bacf116292!3m1!1s2@1:CIHM0ogKEICAgICB-J7n7QE%7C%7C?hl=pt-BR",
+        "id": "ChdDSUhNMG9nS0VJQ0FnSUNCLUo3bjdRRRAB"
+    },
+    {
+        "rating": 4,
+        "date": "3 anos atrás",
+        "isoDate": "2022-11-22T01:44:07.821Z",
+        "likes": 0,
+        "user": {
+            "name": "Leonor Borba",
+            "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjW4OhpbGZYcNCYyoVPlmQZusjmTClbuojay3rE7oDmTreo43GNWWQ=s64-c-rp-mo-ba6-br100",
+            "link": "https://www.google.com/maps/contrib/103107582431101340049/reviews?hl=pt-BR",
+            "reviews": 229,
+            "photos": 2904
+        },
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUQtNU5lY29nRRAB!2m1!1s0x0:0x670968bacf116292!3m1!1s2@1:CIHM0ogKEICAgID-5NecogE%7C%7C?hl=pt-BR",
+        "id": "ChdDSUhNMG9nS0VJQ0FnSUQtNU5lY29nRRAB"
+    },
+    {
+        "rating": 4,
+        "date": "3 anos atrás",
+        "isoDate": "2022-10-08T23:15:30.797Z",
+        "likes": 0,
+        "user": {
+            "name": "WADancerstudio",
+            "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUJ_hS-SLbVW8v60myax3Dd5jG3OdfAN79kEf47n0lUh3zJYB8=s64-c-rp-mo-br100",
+            "link": "https://www.google.com/maps/contrib/104197114877419772386/reviews?hl=pt-BR",
+            "reviews": 1,
+            "photos": 1
+        },
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURleHRyVVBBEAE!2m1!1s0x0:0x670968bacf116292!3m1!1s2@1:CIHM0ogKEICAgIDextrUPA%7C%7C?hl=pt-BR",
+        "id": "ChZDSUhNMG9nS0VJQ0FnSURleHRyVVBBEAE"
+    },
+    {
+        "rating": 3,
+        "date": "3 anos atrás",
+        "isoDate": "2022-09-24T20:50:08.917Z",
+        "likes": 0,
+        "user": {
+            "name": "Arthur Muscardi",
+            "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWJM8tfOuk_VzYrCbDMEu--OzDoKcKGf5WH7-os9RGeaKTQPXIBhA=s64-c-rp-mo-br100",
+            "link": "https://www.google.com/maps/contrib/106794846717638707262/reviews?hl=pt-BR",
+            "reviews": 1,
+            "photos": 0
+        },
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNlMjdlMDhBRRAB!2m1!1s0x0:0x670968bacf116292!3m1!1s2@1:CIHM0ogKEICAgICe27e08AE%7C%7C?hl=pt-BR",
+        "id": "ChdDSUhNMG9nS0VJQ0FnSUNlMjdlMDhBRRAB"
+    },
+    {
+        "rating": 3,
+        "date": "3 anos atrás",
+        "isoDate": "2022-08-18T14:23:13.959Z",
+        "snippet": "O local precisa de uma revitalização geral. Ao menos a passarela para pedestres já recebeu os cuidados da empresa gestora (MRS). Lembro-me de quando o Xangai passava por ali e, inclusive, cheguei a fazer um passeio nele já nos anos finais de seu funcionamento.",
+        "likes": 1,
+        "user": {
+            "name": "Matheus Teutschbein",
+            "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWDj8FX_sJ1Sd-h3wW2HlhMHrz_TBLWpbe0drTjz3G4v5SIw-Ju=s64-c-rp-mo-ba4-br100",
+            "link": "https://www.google.com/maps/contrib/100744023553530154320/reviews?hl=pt-BR",
+            "reviews": 42,
+            "photos": 457
+        },
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUR1bXFxTUd3EAE!2m1!1s0x0:0x670968bacf116292!3m1!1s2@1:CIHM0ogKEICAgIDumqqMGw%7C%7C?hl=pt-BR",
+        "id": "ChZDSUhNMG9nS0VJQ0FnSUR1bXFxTUd3EAE"
+    },
+    {
+        "rating": 5,
+        "date": "3 anos atrás",
+        "isoDate": "2022-07-30T22:42:05.818Z",
+        "likes": 0,
+        "user": {
+            "name": "Patrícia Honório",
+            "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUIDWKS-DBmIcC6NJGNf8xVMle9oZyKPPVP85eCDSYLRaQYriGD=s64-c-rp-mo-ba2-br100",
+            "link": "https://www.google.com/maps/contrib/106877849116021145294/reviews?hl=pt-BR",
+            "reviews": 4,
+            "photos": 24
+        },
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUN1c2FxNnhBRRAB!2m1!1s0x0:0x670968bacf116292!3m1!1s2@1:CIHM0ogKEICAgICusaq6xAE%7C%7C?hl=pt-BR",
+        "id": "ChdDSUhNMG9nS0VJQ0FnSUN1c2FxNnhBRRAB"
+    },
+    {
+        "rating": 2,
+        "date": "3 anos atrás",
+        "isoDate": "2022-06-07T19:00:00.135Z",
+        "likes": 0,
+        "user": {
+            "name": "Sebastião Pereira",
+            "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXTIwt5QStC3fV5UjMPX6bnx2KTGXEeU-zae-DQ5NemDK-mbwph=s64-c-rp-mo-br100",
+            "link": "https://www.google.com/maps/contrib/115363818229863105855/reviews?hl=pt-BR",
+            "reviews": 0,
+            "photos": 0
+        },
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNPdXREbkxBEAE!2m1!1s0x0:0x670968bacf116292!3m1!1s2@1:CIHM0ogKEICAgICOutDnLA%7C%7C?hl=pt-BR",
+        "id": "ChZDSUhNMG9nS0VJQ0FnSUNPdXREbkxBEAE"
+    },
+    {
+        "rating": 4,
+        "date": "4 anos atrás",
+        "isoDate": "2022-04-06T03:57:00.217Z",
+        "likes": 0,
+        "user": {
+            "name": "Rhaniellffx_",
+            "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUl7gb6OInAVbwfQYMMPdQJaKEJkeeOMlUDPzIc2Q02SLTlrCFv=s64-c-rp-mo-ba2-br100",
+            "link": "https://www.google.com/maps/contrib/114194384463669123240/reviews?hl=pt-BR",
+            "reviews": 8,
+            "photos": 2
+        },
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURXcDVyR3dBRRAB!2m1!1s0x0:0x670968bacf116292!3m1!1s2@1:CIHM0ogKEICAgIDWp5rGwAE%7C%7C?hl=pt-BR",
+        "id": "ChdDSUhNMG9nS0VJQ0FnSURXcDVyR3dBRRAB"
+    },
+    {
+        "rating": 5,
+        "date": "4 anos atrás",
+        "isoDate": "2022-02-05T02:43:43.102Z",
+        "snippet": "Marco Histórico de Juiz de fora!\nRelógio da estação Ferroviária.\n\nA estação de Juiz de Fora foi inaugurada em 1875.\n\n\"O primeiro edifício construído para abrigar a estação, em 1875, era uma construção de madeira bastante precária que logo foi substituída. A estação de médio porte ganhou importância no final do século XIX, quando passou a ser de 1.º classe, sendo substituída no início do século XX. Apresentava um torreão central, que contrastava com a aparência rústica do corpo da edificação (MORAES, 2002, p. 121).",
+        "likes": 15,
+        "user": {
+            "name": "Rubia Grapiglia",
+            "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWX7HiRd-BU29BV8Pw6e0g0BMvX9yiyQiIQj6RQR-ukdZQwdzg2sw=s64-c-rp-mo-ba4-br100",
+            "link": "https://www.google.com/maps/contrib/113120612003784954455/reviews?hl=pt-BR",
+            "reviews": 46,
+            "photos": 122
+        },
+        "media": [
+            {
+                "type": "image",
+                "imageUrl": "https://lh3.googleusercontent.com/geougc-cs/ABOP9pt4yltbIJXHwfxz96i2CJZTCd6pfA8ngUuo_8-R7sR5eQQ0ZJJNNxFu-A9u9TRn8-hQnAWgJHrz0fMvvmNNERWtuIMuHNn1WTaX0fJRMBwlb2UF45H0vK2BxM_0ehGhsXgNaz8"
+            }
+        ],
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURtOVk3X0t3EAE!2m1!1s0x0:0x670968bacf116292!3m1!1s2@1:CIHM0ogKEICAgIDm9Y7_Kw%7C%7C?hl=pt-BR",
+        "id": "ChZDSUhNMG9nS0VJQ0FnSURtOVk3X0t3EAE"
+    },
+    {
+        "rating": 4,
+        "date": "4 anos atrás",
+        "isoDate": "2021-10-23T19:41:13.113Z",
+        "snippet": "Bem localizado e fácil acesso. Bom ponto de referência.",
+        "likes": 0,
+        "user": {
+            "name": "Gilberto Santana",
+            "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjW0HifnQrL-OymeYSBWX_9BA0_KSpbqnFWZvOzcEH1DTbiXhHZM=s64-c-rp-mo-ba4-br100",
+            "link": "https://www.google.com/maps/contrib/109050575993148602356/reviews?hl=pt-BR",
+            "reviews": 53,
+            "photos": 371
+        },
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNHZ3N6a0hnEAE!2m1!1s0x0:0x670968bacf116292!3m1!1s2@1:CIHM0ogKEICAgICGgszkHg%7C%7C?hl=pt-BR",
+        "id": "ChZDSUhNMG9nS0VJQ0FnSUNHZ3N6a0hnEAE"
+    },
+    {
+        "rating": 5,
+        "date": "4 anos atrás",
+        "isoDate": "2021-04-27T01:48:12.317Z",
+        "likes": 1,
+        "user": {
+            "name": "Lucia Fagundes",
+            "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVrybYnR7ZRp9kce6g8HFjlxxZNHq5fQRpWjr6p_9i0XopLJaXs=s64-c-rp-mo-ba3-br100",
+            "link": "https://www.google.com/maps/contrib/116376858045241780381/reviews?hl=pt-BR",
+            "reviews": 30,
+            "photos": 52
+        },
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURLME5IT1d3EAE!2m1!1s0x0:0x670968bacf116292!3m1!1s2@1:CIHM0ogKEICAgIDK0NHOWw%7C%7C?hl=pt-BR",
+        "id": "ChZDSUhNMG9nS0VJQ0FnSURLME5IT1d3EAE"
+    },
+    {
+        "rating": 4,
+        "date": "7 anos atrás",
+        "isoDate": "2018-12-09T02:26:38.713Z",
+        "snippet": "A estação foi inaugurada em 1875 com a chegada da ferrovia à cidade, porém funcionou em edifício precário até 1902, ano em que foi inaugurado o edifício atual com a torre do relógio. Funcionou até 1996, quando houve a supressão do serviço de passageiros. Outra estação próxima também atendia a cidade através da E. F. Leopoldina, tendo operado entre 1884 e 1974 e em cujo prédio funciona atualmente o Museu Ferroviário.",
+        "likes": 14,
+        "user": {
+            "name": "Danilo Carvalho",
+            "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjV0MduFGxvVFXX2tOLGGO3G22_0rjl2xYtQ1U8xGA4CQRgMRRTdTg=s64-c-rp-mo-ba6-br100",
+            "link": "https://www.google.com/maps/contrib/112972006432692519412/reviews?hl=pt-BR",
+            "reviews": 391,
+            "photos": 1908
+        },
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNJMjlPYU9nEAE!2m1!1s0x0:0x670968bacf116292!3m1!1s2@1:CIHM0ogKEICAgICI29OaOg%7C%7C?hl=pt-BR",
+        "id": "ChZDSUhNMG9nS0VJQ0FnSUNJMjlPYU9nEAE"
+    }
+]

@@ -1,0 +1,222 @@
+[
+    {
+        "rating": 2,
+        "date": "3 years ago",
+        "isoDate": "2022-12-03T20:03:29.914Z",
+        "snippet": "Belíssima edificação de 1918, porém precisando de Restauro em sua fachada, para ontem ! Por dentro, mtas pinturas parietais e linda marchetaria no piso.",
+        "translatedSnippet": "A beautiful building from 1918, but its facade is in dire need of restoration! Inside, there are many wall paintings and lovely marquetry on the floor.",
+        "likes": 0,
+        "user": {
+            "name": "Flávia Duque-Estrada",
+            "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXIk-_w0XKAZCq1cJdwDarONkb_448RraEAgnscN9X4-vF0PZ4t=s64-c-rp-mo-ba3-br100",
+            "link": "https://www.google.com/maps/contrib/112926842704796502948/reviews?hl=en-US",
+            "reviews": 58,
+            "photos": 2
+        },
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUQtbWM2enNBRRAB!2m1!1s0x0:0x19e05d7e690637d4!3m1!1s2@1:CIHM0ogKEICAgID-mc6zsAE%7C%7C?hl=en-US",
+        "id": "ChdDSUhNMG9nS0VJQ0FnSUQtbWM2enNBRRAB"
+    },
+    {
+        "rating": 5,
+        "date": "2 years ago",
+        "isoDate": "2023-12-24T14:26:02.370Z",
+        "snippet": "Lugar antigo patrimônio dea cidade de Juiz de Fora",
+        "translatedSnippet": "An old heritage site of the city of Juiz de Fora.",
+        "likes": 1,
+        "user": {
+            "name": "Lupa360",
+            "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocISOGugAXcmpkOSc9GoWmBgolTX19V4db_OA6SXxBa2Tbedtw=s64-c-rp-mo-ba3-br100",
+            "link": "https://www.google.com/maps/contrib/116532160692108304538/reviews?hl=en-US",
+            "reviews": 27,
+            "photos": 122
+        },
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUMxck03Y2hRRRAB!2m1!1s0x0:0x19e05d7e690637d4!3m1!1s2@1:CIHM0ogKEICAgIC1rM7chQE%7C%7C?hl=en-US",
+        "id": "ChdDSUhNMG9nS0VJQ0FnSUMxck03Y2hRRRAB"
+    },
+    {
+        "rating": 5,
+        "date": "6 years ago",
+        "isoDate": "2020-03-01T10:58:47.651Z",
+        "snippet": "Para os empreendedores de Juiz de Fora e região, esse é um lugar que precisa ser visitado.",
+        "translatedSnippet": "For entrepreneurs in Juiz de Fora and the surrounding region, this is a place that needs to be visited.",
+        "likes": 0,
+        "user": {
+            "name": "Ramires Castro",
+            "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXrL16VNYanWxxq6o6fDfprHWEj8e1gAPwWQUy3jMPbCqOPQpgP=s64-c-rp-mo-ba4-br100",
+            "link": "https://www.google.com/maps/contrib/115928702816410767843/reviews?hl=en-US",
+            "reviews": 138,
+            "photos": 17
+        },
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURzbXZtbFB3EAE!2m1!1s0x0:0x19e05d7e690637d4!3m1!1s2@1:CIHM0ogKEICAgIDsmvmlPw%7C%7C?hl=en-US",
+        "id": "ChZDSUhNMG9nS0VJQ0FnSURzbXZtbFB3EAE"
+    },
+    {
+        "rating": 5,
+        "date": "6 years ago",
+        "isoDate": "2019-06-26T10:24:28.569Z",
+        "snippet": "Lugar focado em fornecer informação e benefícios ao empresário. PARABÉNS!",
+        "translatedSnippet": "A place focused on providing information and benefits to entrepreneurs. Congratulations!",
+        "likes": 0,
+        "user": {
+            "name": "Rogerio Paschoalíno (UZZITICKET)",
+            "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVIhlBpc8UtUVJlJA36Ez7Ybn5ZFWmeTYNEFncFMsBm8WdYZ_0I=s64-c-rp-mo-ba4-br100",
+            "link": "https://www.google.com/maps/contrib/112577397928977848918/reviews?hl=en-US",
+            "reviews": 325,
+            "photos": 14
+        },
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURrbnNPOHVBRRAB!2m1!1s0x0:0x19e05d7e690637d4!3m1!1s2@1:CIHM0ogKEICAgIDknsO8uAE%7C%7C?hl=en-US",
+        "id": "ChdDSUhNMG9nS0VJQ0FnSURrbnNPOHVBRRAB"
+    },
+    {
+        "rating": 5,
+        "date": "3 years ago",
+        "isoDate": "2022-06-15T19:54:50.319Z",
+        "snippet": "Respeitável e tradicional associação, extremamente relevante para Juiz de Fora",
+        "translatedSnippet": "A respectable and traditional association, extremely relevant to Juiz de Fora.",
+        "likes": 0,
+        "user": {
+            "name": "Douglas Silva",
+            "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVqksjxNuzKRmGni4yk-Yde-5YE_YMM5b1xPK_TZTd8VtBqb3JEdA=s64-c-rp-mo-ba4-br100",
+            "link": "https://www.google.com/maps/contrib/116736796636914976695/reviews?hl=en-US",
+            "reviews": 119,
+            "photos": 265
+        },
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNPMWZQNWxRRRAB!2m1!1s0x0:0x19e05d7e690637d4!3m1!1s2@1:CIHM0ogKEICAgICO1fP5lQE%7C%7C?hl=en-US",
+        "id": "ChdDSUhNMG9nS0VJQ0FnSUNPMWZQNWxRRRAB"
+    },
+    {
+        "rating": 5,
+        "date": "6 months ago",
+        "isoDate": "2025-09-29T15:13:18.194Z",
+        "likes": 0,
+        "user": {
+            "name": "CLAUIDES MARIA BATISTA",
+            "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjU6CFNP1eTQisfQlNII6vk_TqDPRG_tYQVGbgEouFW2Jq_jJ7V6=s64-c-rp-mo-br100",
+            "link": "https://www.google.com/maps/contrib/103775773983954700066/reviews?hl=en-US",
+            "reviews": 6,
+            "photos": 0
+        },
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xwVE9GUTBibXhZWTBReGRrSTFUR1puTFhOaVZWRRAB!2m1!1s0x0:0x19e05d7e690637d4!3m1!1s2@1:CAIQACodChtycF9oOlpTOFQ0bmxYY0QxdkI1TGZnLXNiVVE%7C%7C?hl=en-US",
+        "id": "Ci9DQUlRQUNvZENodHljRjlvT2xwVE9GUTBibXhZWTBReGRrSTFUR1puTFhOaVZWRRAB"
+    },
+    {
+        "rating": 5,
+        "date": "a year ago",
+        "isoDate": "2024-11-11T03:20:51.132Z",
+        "likes": 0,
+        "user": {
+            "name": "RCWTV - REDE DE CANAIS WEB TV",
+            "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXxh_ArGiMxlCk-8aUQLKkmSiCB442w7zomzQDGt2ID1r_yxb_G5A=s64-c-rp-mo-ba3-br100",
+            "link": "https://www.google.com/maps/contrib/111168704117378758821/reviews?hl=en-US",
+            "reviews": 39,
+            "photos": 2
+        },
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUQzd0pfVUxBEAE!2m1!1s0x0:0x19e05d7e690637d4!3m1!1s2@1:CIHM0ogKEICAgID3wJ_ULA%7C%7C?hl=en-US",
+        "id": "ChZDSUhNMG9nS0VJQ0FnSUQzd0pfVUxBEAE"
+    },
+    {
+        "rating": 5,
+        "date": "4 years ago",
+        "isoDate": "2021-09-10T00:20:22.377Z",
+        "likes": 0,
+        "user": {
+            "name": "Alex Sátyro",
+            "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXNiYCA2JizV1HnwNW4hy6tWEPSOg2M5C9i6IXxpvaqEuk15Ht1qA=s64-c-rp-mo-ba3-br100",
+            "link": "https://www.google.com/maps/contrib/113157239822755409985/reviews?hl=en-US",
+            "reviews": 43,
+            "photos": 1
+        },
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUM2dGRXb213RRAB!2m1!1s0x0:0x19e05d7e690637d4!3m1!1s2@1:CIHM0ogKEICAgIC6tdWomwE%7C%7C?hl=en-US",
+        "id": "ChdDSUhNMG9nS0VJQ0FnSUM2dGRXb213RRAB"
+    },
+    {
+        "rating": 5,
+        "date": "4 years ago",
+        "isoDate": "2021-09-06T16:07:33.610Z",
+        "likes": 0,
+        "user": {
+            "name": "Alice Alves",
+            "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVgnFwV7hFb6IlI2hnOvwpbxsg9ZjK_Zdc4RMctUf1NFiC08ICxIQ=s64-c-rp-mo-br100",
+            "link": "https://www.google.com/maps/contrib/104689688698072168010/reviews?hl=en-US",
+            "reviews": 8,
+            "photos": 6
+        },
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUM2NGNEcFN3EAE!2m1!1s0x0:0x19e05d7e690637d4!3m1!1s2@1:CIHM0ogKEICAgIC64cDpSw%7C%7C?hl=en-US",
+        "id": "ChZDSUhNMG9nS0VJQ0FnSUM2NGNEcFN3EAE"
+    },
+    {
+        "rating": 5,
+        "date": "4 years ago",
+        "isoDate": "2021-07-16T13:16:15.872Z",
+        "likes": 0,
+        "user": {
+            "name": "Aria Marketing",
+            "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUXuAtF181bgJJyArFWls8e3iu_pHMIidYDjt_gIGiseijwii79=s64-c-rp-mo-ba3-br100",
+            "link": "https://www.google.com/maps/contrib/109504245962888668504/reviews?hl=en-US",
+            "reviews": 9,
+            "photos": 14
+        },
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURxdTZEN3lRRRAB!2m1!1s0x0:0x19e05d7e690637d4!3m1!1s2@1:CIHM0ogKEICAgIDqu6D7yQE%7C%7C?hl=en-US",
+        "id": "ChdDSUhNMG9nS0VJQ0FnSURxdTZEN3lRRRAB"
+    },
+    {
+        "rating": 5,
+        "date": "4 years ago",
+        "isoDate": "2021-06-27T01:35:35.324Z",
+        "likes": 0,
+        "user": {
+            "name": "Bruno Marques",
+            "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocIMSdThKFgvrYiVEnm5EqKcnFzqrpDsRpwvn-x9XppncCQTBg=s64-c-rp-mo-ba2-br100",
+            "link": "https://www.google.com/maps/contrib/115978191081383086247/reviews?hl=en-US",
+            "reviews": 14,
+            "photos": 13
+        },
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURxeU91VTJRRRAB!2m1!1s0x0:0x19e05d7e690637d4!3m1!1s2@1:CIHM0ogKEICAgIDqyOuU2QE%7C%7C?hl=en-US",
+        "id": "ChdDSUhNMG9nS0VJQ0FnSURxeU91VTJRRRAB"
+    },
+    {
+        "rating": 5,
+        "date": "7 years ago",
+        "isoDate": "2019-01-04T12:52:04.207Z",
+        "likes": 0,
+        "user": {
+            "name": "Carmo Yassushi Mimura",
+            "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjW2rQWiifF6ryLsfPorYHAcn9Bmclr8VyNCt7Wvn1V6g0XJGVvswA=s64-c-rp-mo-ba4-br100",
+            "link": "https://www.google.com/maps/contrib/105613323468439852272/reviews?hl=en-US",
+            "reviews": 73,
+            "photos": 112
+        },
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURJOXZLZ3VnRRAB!2m1!1s0x0:0x19e05d7e690637d4!3m1!1s2@1:CIHM0ogKEICAgIDI9vKgugE%7C%7C?hl=en-US",
+        "id": "ChdDSUhNMG9nS0VJQ0FnSURJOXZLZ3VnRRAB"
+    },
+    {
+        "rating": 4,
+        "date": "8 years ago",
+        "isoDate": "2017-12-16T11:49:35.445Z",
+        "likes": 0,
+        "user": {
+            "name": "Laerson Carneiro",
+            "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLywG_KqvVV8jqSmMI_7fcDH5QbkWhQml9QYM_0rwUYQ8fyEnk=s64-c-rp-mo-ba4-br100",
+            "link": "https://www.google.com/maps/contrib/115406660467271449630/reviews?hl=en-US",
+            "reviews": 48,
+            "photos": 1
+        },
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURRbUxEZ193RRAB!2m1!1s0x0:0x19e05d7e690637d4!3m1!1s2@1:CIHM0ogKEICAgIDQmLDg_wE%7C%7C?hl=en-US",
+        "id": "ChdDSUhNMG9nS0VJQ0FnSURRbUxEZ193RRAB"
+    },
+    {
+        "rating": 5,
+        "date": "9 years ago",
+        "isoDate": "2017-03-27T10:53:06.097Z",
+        "likes": 0,
+        "user": {
+            "name": "Luís Otávio Loures da Conceição",
+            "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUDvqyfLROYgnD69h4Qo0IO1VBYPzpixUILGn4XmVY1yk2buBpEag=s64-c-rp-mo-ba3-br100",
+            "link": "https://www.google.com/maps/contrib/113166734322604801411/reviews?hl=en-US",
+            "reviews": 3,
+            "photos": 33
+        },
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURRdlpQYjdBRRAB!2m1!1s0x0:0x19e05d7e690637d4!3m1!1s2@1:CIHM0ogKEICAgIDQvZPb7AE%7C%7C?hl=en-US",
+        "id": "ChdDSUhNMG9nS0VJQ0FnSURRdlpQYjdBRRAB"
+    }
+]

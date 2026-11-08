@@ -1,0 +1,87 @@
+[
+    {
+        "rating": 5,
+        "date": "a year ago",
+        "isoDate": "2024-11-03T09:02:56.122Z",
+        "snippet": "Prédio antigo e bem conservado. Visitamos uma exposição, aberta ao público, em seu interior. Havia programação de eventos no espaço. Vale a apreciação da construção e a visita interna.",
+        "translatedSnippet": "An old but well-preserved building. We visited an exhibition inside, open to the public. There were events scheduled in the space. The building itself and the interior visit are worthwhile.",
+        "likes": 0,
+        "user": {
+            "name": "Luis Adriano",
+            "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWJFf1wSJJ4IcFppZkYJ78ClMYEJkcrbwtr5ymec_44fdE-0lta0A=s64-c-rp-mo-ba6-br100",
+            "link": "https://www.google.com/maps/contrib/106433986236648877352/reviews?hl=en-US",
+            "reviews": 474,
+            "photos": 2151
+        },
+        "media": [
+            {
+                "type": "image",
+                "imageUrl": "https://lh3.googleusercontent.com/geougc-cs/ABOP9psG0ooJQUg7jPpTkcObS3nuOgnd7cfHw71HZRTXGgVWBy37C0hiNBWz1c5ndBt9-MXU-a-LbEf8KwB7SnRa73-OXBuHsyrCZ3N1Jdau38KGGJnOZRk6LBytD4Xmn2qb7h4CV5qg",
+                "caption": "Exposição fotos antigas de eventos na cidade ou de curiosidades."
+            },
+            {
+                "type": "image",
+                "imageUrl": "https://lh3.googleusercontent.com/geougc-cs/ABOP9ptnHIpzkX7xRM46J73Hi22Vco3Mqd--8KDzLgkBh-znjWgNyZaEqjMbi0gCSswb-5FlvoI6yR5C_e2me6iyloBgCPJynLrX_XfqbiOdsewgc_Rl9tBx9aD6DuCHSMGftdXQRBOWqw"
+            }
+        ],
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUMzOVBES2xnRRAB!2m1!1s0x0:0xcc5de4c2d575d9ab!3m1!1s2@1:CIHM0ogKEICAgIC39PDKlgE%7C%7C?hl=en-US",
+        "id": "ChdDSUhNMG9nS0VJQ0FnSUMzOVBES2xnRRAB"
+    },
+    {
+        "rating": 5,
+        "date": "7 months ago",
+        "isoDate": "2025-08-15T11:41:39.966Z",
+        "snippet": "Parabéns pela iniciativa! Estive em Juíz de fora esse mês de agosto e fiquei encantada com esse espaço criado recentemente. A exposição atual ficará até outubro e outras serão instaladas, mas de acordo com os funcionários, a intenção é criar um museu com todo o acervo. Recomendo a todos que moram ou passam por Juíz de Fora que visite esse lugar, é enriquecedor.",
+        "translatedSnippet": "Congratulations on the initiative! I was in Juiz de Fora this August and was delighted with this recently created space. The current exhibition will be on display until October, and others will be installed, but according to the staff, the intention is to create a museum with the entire collection. I recommend that everyone who lives in or passes through Juiz de Fora visit this place; it's enriching.",
+        "likes": 0,
+        "user": {
+            "name": "Karina Silva",
+            "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVCC-MKRiK4eCRXCJUEW07dZZ_YqBhFS2DJDFPk5eXKuWsBZjFf5Q=s64-c-rp-mo-ba5-br100",
+            "link": "https://www.google.com/maps/contrib/117745555666558586035/reviews?hl=en-US",
+            "reviews": 56,
+            "photos": 336
+        },
+        "media": [
+            {
+                "type": "image",
+                "imageUrl": "https://lh3.googleusercontent.com/geougc-cs/ABOP9pvMRGR_WtKs8isPrq_rT3uU591fxTDsm8eWzf_0AqhqwR0apmtS_IsCHsVJ5FStH8yFQZ1pWJtZOC4haL9LuomEsJ1ioEWiuYoHSZM1bH0eA2Ay7q-3edL7KBhrLoBDefjZuewEk9TzuRnU"
+            }
+        ],
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2kxQlEySkVRM0Z3UnpkbllVbHJWMVpaVWxWRlFsRRAB!2m1!1s0x0:0xcc5de4c2d575d9ab!3m1!1s2@1:CAIQACodChtycF9oOi1BQ2JEQ3FwRzdnYUlrV1ZZUlVFQlE%7C%7C?hl=en-US",
+        "id": "Ci9DQUlRQUNvZENodHljRjlvT2kxQlEySkVRM0Z3UnpkbllVbHJWMVpaVWxWRlFsRRAB"
+    },
+    {
+        "rating": 5,
+        "date": "2 years ago",
+        "isoDate": "2024-01-12T22:01:30.186Z",
+        "snippet": "Espaço de arte e de bom gosto, recebe exposições, feiras, teatro, músicas. No coração da cidade de JF em pleno Parque Halfeld.",
+        "translatedSnippet": "A space of art and good taste, it hosts exhibitions, fairs, theater, and music. Located in the heart of Juiz de Fora, within Halfeld Park.",
+        "likes": 0,
+        "user": {
+            "name": "Erika Neves",
+            "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjV1olnOX_FlINXGytjo2FwBgBCvJrq7jDouwfcqY4KxEnQTb_UFYA=s64-c-rp-mo-ba6-br100",
+            "link": "https://www.google.com/maps/contrib/102157465984446884911/reviews?hl=en-US",
+            "reviews": 242,
+            "photos": 2232
+        },
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNOdkx5V1J3EAE!2m1!1s0x0:0xcc5de4c2d575d9ab!3m1!1s2@1:CIHM0ogKEICAgICNvLyWRw%7C%7C?hl=en-US",
+        "id": "ChZDSUhNMG9nS0VJQ0FnSUNOdkx5V1J3EAE"
+    },
+    {
+        "rating": 5,
+        "date": "a year ago",
+        "isoDate": "2024-09-01T13:05:08.853Z",
+        "snippet": "Fachada linda que está em processo de restauro.",
+        "translatedSnippet": "Beautiful facade that is currently undergoing restoration.",
+        "likes": 1,
+        "user": {
+            "name": "Matheus Teutschbein",
+            "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWDj8FX_sJ1Sd-h3wW2HlhMHrz_TBLWpbe0drTjz3G4v5SIw-Ju=s64-c-rp-mo-ba4-br100",
+            "link": "https://www.google.com/maps/contrib/100744023553530154320/reviews?hl=en-US",
+            "reviews": 42,
+            "photos": 457
+        },
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNINU92ZGJ3EAE!2m1!1s0x0:0xcc5de4c2d575d9ab!3m1!1s2@1:CIHM0ogKEICAgICH5Ovdbw%7C%7C?hl=en-US",
+        "id": "ChZDSUhNMG9nS0VJQ0FnSUNINU92ZGJ3EAE"
+    }
+]
